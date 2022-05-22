@@ -1,0 +1,35 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Preface</title>
+  <metadata>
+  <md:content-id>m19782</md:content-id><md:title>Preface</md:title>
+  <md:abstract>Preface, by Marilyn Kushner of the New-York Historical Society, to Stephen Fredericks' New York Etching Club Minutes.</md:abstract>
+  <md:uuid>4c97e535-52d5-4407-aefc-8cce0427a3d0</md:uuid>
+</metadata>
+
+<content>
+
+
+  <para id="badge">
+	  <media id="buybutton" alt="Minutes of the New York Etching Club -- buy from Rice University Press.">
+		  <image mime-type="image/jpeg" src="http://rup.rice.edu/nyetching-buybutton.jpg">
+		  <param name="style" value="padding: 3px; margin-left: 5px; border: solid;      border-width:1px; border-color:#002469; float: right;       cursor: pointer;"/>
+		<param name="onclick" value="window.open('http://rup.rice.edu/nyetching.html','','');"/>
+	<param name="onmouseover" value="document.body.style.cursor = 'hand';"/> 
+	<param name="onmouseout" value="document.body.style.cursor = 'default';"/>
+</image>
+
+	  </media>
+  </para>
+
+    <section id="id5741956">
+      <title>Preface</title>
+      <para id="id8753824">It all began in 1877, when thirteen artists “gathered together in the studio of a brother artist, ‘to assist’ in the production of a print.”<footnote id="id44464510">Catalogue of the New York Etching Club Exhibition (1882), n.p.</footnote> Such was the founding of the New York Etching Club, later to be called the Society of American Etchers.<footnote id="id44464522">The decision to rename the club was made in 1882. “Minutes of the Society of American Etchers,” 31 March 1882, n.p. </footnote> The timing was ripe: New York galleries were showing etchings; collectors were amassing print collections; and there was an active group of American etchers working in Venice.<footnote id="id44464538">For a good overview of the entire period see James Watrous, <emphasis>A Century of American Printmaking, 1880-1980</emphasis> (Madison: The University of Wisconsin Press, 1984).</footnote></para>
+      
+      <para id="element-519">While the etching renaissance that occurred in Europe in the 1860s and in the United States in the 1870s and 1880s is well known, the documented activities of the New York Etching Club have not been broadly available to scholars, collectors and other interested parties until now. The publication of this volume offers us an invaluable gaze into the world of late-nineteenth century American printmaking, and indeed American art in general.</para><para id="id8139873">Quite obviously, the history of the etching club and its exhibitions as placed into a broader art historical context by Stephen Fredericks will become a seminal document in the study of this etching renaissance. Not only does it note salient events of the group, but it also references other graphic exhibitions in the 1870s and 1880s. On a broader scale, one will now be able to glean data regarding chronologies of the artists involved, when they were in New York, where they lived, and what they were doing during this period. We can learn which members, at certain times, were not in New York (and at times why they were not present). The minutes also give us a glimpse into the finances of the print world and, indeed, the art world in general. Similarly, seemingly mundane activities are accounted (for example, the impending visit of “Dr. Seymour Hayden of London” is recorded in the minutes of 16 October 1882). Such notations can lead scholars down heretofore unknown roads.</para>
+      <para id="id7761583">In short, this volume will become vital to anyone who seeks to broaden the window into late nineteenth-century American art and to help explicate issues of American art and culture at that time. American printmaking studies owes a note of thanks to Stephen Fredericks for making a contribution that will serve the field for years to come.</para>
+      <para id="id8284566">
+        <emphasis>Marilyn S. Kushner, PhD, Curator and Head, Department of Prints, Photographs, and Architectural Collections, New-York Historical Society</emphasis>
+      </para>
+    </section>
+  </content>
+</document>

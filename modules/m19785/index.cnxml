@@ -1,0 +1,40 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>About This Book</title>
+  <metadata>
+  <md:content-id>m19785</md:content-id><md:title>About This Book</md:title>
+  <md:abstract>A prefatory note regarding the layout, presentation, and inclusion of images in Stephen A. Fredericks' New York Etching Club Minutes.</md:abstract>
+  <md:uuid>a0abe632-70bc-475c-9f08-b7fd75576c86</md:uuid>
+</metadata>
+
+<content>
+
+
+  <para id="badge">
+	  <media id="buybutton" alt="Minutes of the New York Etching Club -- buy from Rice University Press.">
+		  <image mime-type="image/jpeg" src="http://rup.rice.edu/nyetching-buybutton.jpg">
+		  <param name="style" value="padding: 3px; margin-left: 5px; border: solid;      border-width:1px; border-color:#002469; float: right;       cursor: pointer;"/>
+		<param name="onclick" value="window.open('http://rup.rice.edu/nyetching.html','','');"/>
+	<param name="onmouseover" value="document.body.style.cursor = 'hand';"/> 
+	<param name="onmouseout" value="document.body.style.cursor = 'default';"/>
+</image>
+
+	  </media>
+  </para>
+
+    <section id="id11393900">
+      <title>About This Book</title>
+      <para id="id11570774">The primary reason for publishing this book is to make the minutes of the New York Etching Club accessible to other researchers and scholars. To that end, our edition is as true a "typewritten" copy of the handwritten original as possible. That is, the minutes are presented precisely as they were written down in the minutes’ book. I have made virtually no corrections of spelling, grammar or punctuation errors. Without exception, every word, notation, abbreviation, hyphenation, and space is recorded as entered in the original. Misspellings of artists’ names, in particular, occur constantly throughout the minutes, and two different spellings of an artist’s surname in a single entry are common. These are left uncorrected, and everyday nineteenth-century English and abbreviations in use at the time are also preserved. Thus everything about the original appears as authentically as possible without interpretation or editing.</para>
+      <para id="id12314170">The original minutes were recorded in a tablet-like notebook measuring approximately 5 x 7 inches and covered with a black-and-white marbled paper familiar to all grade-school children. The pages in the notebook are lined. All of the minutes were recorded with pen and mostly in black ink. They were written largely in a beautiful, even elegant, nineteenth-century script that at times is also nearly indecipherable. There are no illustrations of any kind. The New York Etching Club secretaries responsible for the minutes began with James D. Smillie, the club’s principal founder. Smillie was followed, in order, by James Craig Nicoll, William H. Shelton, Alexander Schilling, Charles Frederick William Mielatz, Henry Farrer, and Frederick Dielman. There is clear evidence that James D. Smillie filled in over the years—often anonymously—as secretary.</para>
+      <para id="id14289873">The first six pages of the original minutes book were left intentionally blank. Hand-numbered pages and text begin on the seventh page, which is numbered “7,” and end on the page numbered 23, after which the pages are unnumbered. Because these first seventeen pages look more finished in appearance than the following pages, and are somewhat more grammatically consistent, it is likely that Smillie recorded them elsewhere, then copied them into the minutes book sometime between February and December 1879. This conclusion is supported by a reference in the February 10, 1879, minutes to 85 cents being spent on a “Book for minutes.” </para>
+      <para id="id7987525">The minutes tend to err on the side of discretion, the secretaries taking care to protect reputations and honor friendships. There is little emotion and rarely is there direct mention of controversy among the members. The minutes also fail to provide a comprehensive record of the members’ exhibitions, catalogue and portfolio publications, as well as most public-relations efforts. </para>
+      <para id="id13538269">Exactly how and under what circumstances the minute-taking came to an end is unknown. When the extant records abruptly stop in December 1893, the mood seems optimistic and forward-looking. </para>
+      <para id="id13538360">The minutes as presented in this book are illustrated with prints culled mainly from the extraordinary collection of Mr. and Mrs. Dave Williams, held at The Print Research Foundation in Stamford, Connecticut. Use of the foundation’s archival research records made it possible in most instances to place the reproductions in the minutes for the year in which they were shown in New York Etching Club exhibitions. Most of the remaining reproductions were made from originals that appeared as illustrations in exhibition catalogues published by the New York Etching Club or other period publications. </para>
+      <para id="id3898005">
+        <emphasis>Stephen A. Fredericks</emphasis>
+      </para>
+      <para id="id4548365">
+        <emphasis>October 29, 2008</emphasis>
+      </para>
+    </section>
+  </content>
+</document>

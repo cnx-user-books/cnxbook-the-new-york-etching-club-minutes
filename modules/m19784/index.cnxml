@@ -1,0 +1,39 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Acknowledgments</title>
+  <metadata>
+  <md:content-id>m19784</md:content-id><md:title>Acknowledgments</md:title>
+  <md:abstract>The Acknowledgments to Stephan A. Fredericks' New York Etching Club Minutes</md:abstract>
+  <md:uuid>cee68c9f-8ff9-413d-93b3-c55655149f1f</md:uuid>
+</metadata>
+
+<content>
+
+
+  <para id="badge">
+	  <media id="buybutton" alt="Minutes of the New York Etching Club -- buy from Rice University Press.">
+		  <image mime-type="image/jpeg" src="http://rup.rice.edu/nyetching-buybutton.jpg">
+		  <param name="style" value="padding: 3px; margin-left: 5px; border: solid;      border-width:1px; border-color:#002469; float: right;       cursor: pointer;"/>
+		<param name="onclick" value="window.open('http://rup.rice.edu/nyetching.html','','');"/>
+	<param name="onmouseover" value="document.body.style.cursor = 'hand';"/> 
+	<param name="onmouseout" value="document.body.style.cursor = 'default';"/>
+</image>
+
+	  </media>
+  </para>
+
+    <section id="id6967028">
+      <title>Acknowledgments</title>
+      <para id="id6967067">In 1998, Ms. Roberta Waddell, Curator of the New York Public Library Print Collection, started me on my journey with the New York Etching Club. Her passion for prints, printmakers, art history, and discovery is a continuing source of inspiration, and I am grateful for her support and guidance through my years of research at the library. I also would like to thank the library’s unique staff of associates in the microfilm division, whose patience and creative approach contributed broadly to this effort.</para>
+      <para id="id6967071">I owe a great deal of appreciation to historian, writer, and print dealer Ms. Rona Schneider for alerting me to the existence of the New York Etching Club minutes, and pointing me in the direction of the National Academy of Design. Rona’s patience, curiosity, sense of humor, and generosity were a constant source of motivation. Her professional perspective and personal influence can be found throughout this book.</para>
+      <para id="id8815882">I am deeply indebted to the National Academy of Design for providing me a photocopy of the minutes; to Ms. Annette Blaugrund, then Executive Director of the National Academy, for allowing me permission to proceed with the publishing project; and to Mr. Marshall Price for his assistance with several technical matters.</para>
+      <para id="id8815891">Mr. and Mrs. Dave Williams provided me virtually unrestricted access to their world-class nineteenth-century print collection at the Print Research Foundation in Stamford, Connecticut. This made it possible for me to bring the minutes alive with reproductions of period etchings. I cannot thank them enough for their support and generosity. Their excellent staff, including Emily Hall, deserves mention for its always professional and cheerful assistance.</para>
+      <para id="id8234455">Martin Hopkinson, former archivist of the Royal Society of Painter Printmakers, who graciously conducted critical research in London for this project, also deserves acknowledgment. I remain indebted to him for to his generosity and enthusiasm.</para>
+      <para id="id8234464">Marilyn Kushner, PhD, another professional role model of mine, gracefully provided publishing advice, editorial perspective, and a preface to this book. It has been a privilege to share the development of this project with her.</para>
+      <para id="id8200306">Editor Bernard Rittersporn warrants special mention for the commitment and long hours he dedicated to this project. Another outstanding editor, Pat Kirkham, contributed greatly to the structure of my introduction. Both served repeatedly as a source of encouragement. </para>
+      <para id="id8200318">Graphic designer Lou Netter’s work on the overall layout and design of this book, coupled with his lively artistic touch, has made for a timely and personal approach to the project. I am most thankful for his patience and commitment. Close friend and graphic designer Rina Drucker Root also deserves recognition for her early contributions to the format of the book and many later recommendations.</para>
+      <para id="id8777105">Mentor Will Barnet and I spent many afternoons over the last ten years discussing early American artist etching during our visits to Gramercy Park. Having crossed the path of more than one of the New York Etching Club members during his early career, he added unparalleled life to this book.</para>
+      <para id="id8777102">I would also like to express my deep appreciation to Fred Moody, Editor-in-Chief of Rice University Press. It was Fred who first embraced my vision for a digital and traditional approach to publishing this book. His skillful guidance of our working relationship has continuously been a great source of inspiration and excitement. I will remain most grateful for the seeing through of this project with him, and creating in the process one of the most unique print world references available.</para> 
+      <para id="id8777114">Finally, I would like to thank my wife, Anne-Rose van den Bossche, for her enduring patience during the years when great portions of this project were laid out on our dining-room table. Without her support, love, and remarkable gift for listening, this project would never have been completed. </para>
+    </section>
+  </content>
+</document>
